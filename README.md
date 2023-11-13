@@ -4,8 +4,8 @@ void d1zxult {
   string language = English, Russian;
   int age = 18;
   string[] code = new string[] { "Python", "C#", "C++" };
-  string[] frameworks new string[] { ".NET Core", ".NET Framework", "Entity Framework" };
-  string[] Database new string[] { "SQL Server & PostgreSQL", "MongoDB & CosmosDB" };
+  string[] frameworks new string[] { ".NET Framework", "Entity Framework" };
+  string[] database new string[] { "PostgreSQL", "MongoDB" };
   string[] tools = new string[] { "Docker & Kubernetes" };
 }
 ```
