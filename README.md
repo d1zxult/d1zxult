@@ -4,7 +4,8 @@
 #include <vector>
 
 void d1zxult() {
-    std::string age = "19";
+    std::string age = "20";
+    std::string sex = "Male";
     std::string name = "Артём";
     std::string surname = "Васин";
     std::vector<std::string> language = {"English", "Spanish", "Russian"};
