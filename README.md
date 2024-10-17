@@ -8,6 +8,7 @@ void d1zxult() {
     std::string sex = "Male";
     std::string name = "Артём";
     std::string surname = "Васин";
+    std::string country = "Russia";
     std::vector<std::string> language = {"English", "Spanish", "Russian"};
     std::vector<std::string> web = {"HTML", "CSS", "Bootstrap", "Webpack"};
     std::vector<std::string> code = {"JavaScript", "TypeScript", "Python", "C#", "C++"};
