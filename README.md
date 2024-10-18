@@ -1,24 +1,19 @@
-```cpp
-#include <iostream>
-#include <string>
-#include <vector>
+```python
 
-void d1zxult() {
-    std::string age = "20";
-    std::string sex = "Male";
-    std::string name = "Артём";
-    std::string surname = "Васин";
-    std::string country = "Russia";
-    std::vector<std::string> language = {"English", "Spanish", "Russian"};
-    std::vector<std::string> web = {"HTML", "CSS", "Bootstrap", "Webpack"};
-    std::vector<std::string> code = {"JavaScript", "TypeScript", "Python", "C#", "C++"};
-    std::vector<std::string> frameworks = {".NET Framework", "Entity Framework"};
-    std::vector<std::string> database = {"PostgreSQL Server", "DynamoDB", "MongoDB"};
-    std::vector<std::string> tools = {"Docker", "Kubernetes", "Linux", "Git"};
-}
+def d1zxult():
+    age = "20"
+    sex = "Male"
+    name = "Артём"
+    surname = "Васин"
+    country = "Russia"
+    languages = ["English", "Spanish", "Russian"]
+    web = ["HTML", "CSS", "Bootstrap", "Webpack"]
+    code = ["JavaScript", "TypeScript", "Python", "C#"]
+    frameworks = [".NET Framework", "Entity Framework"]
+    databases = ["PostgreSQL", "MongoDB"]
+    tools = ["Docker", "Linux", "Git"]
 
-int main() {
-    d1zxult();
-    return 0;
-}
+if __name__ == "__main__":
+    d1zxult()
+
 ```
