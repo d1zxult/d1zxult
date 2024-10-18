@@ -7,6 +7,7 @@ def d1zxult():
     surname = "Васин"
     country = "Russia"
     languages = ["English", "Spanish", "Russian"]
+    design = ["Figma", "Illustrator", "Photoshop"]
     web = ["HTML", "CSS", "Bootstrap", "Webpack"]
     code = ["JavaScript", "TypeScript", "Python", "C#"]
     frameworks = [".NET Framework", "Entity Framework"]
