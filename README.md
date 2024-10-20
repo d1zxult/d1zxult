@@ -9,9 +9,8 @@ def d1zxult():
     languages = ["English", "Spanish", "Russian"]
     design = ["Figma", "Illustrator", "Photoshop"]
     web = ["HTML", "CSS", "Bootstrap", "Webpack"]
-    code = ["JavaScript", "TypeScript", "Python", "C#"]
+    code = ["JavaScript", "TypeScript", "Python", "C++"]
     libraries = ["TensorFlow", "Asyncio", "Django", "Flask"]
-    frameworks = [".NET Framework", "Entity Framework"]
     databases = ["PostgreSQL", "MongoDB"]
     tools = ["Docker", "Linux", "Git"]
 
