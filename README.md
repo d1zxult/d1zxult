@@ -8,9 +8,9 @@ def d1zxult():
     country = "Russia"
     languages = ["English", "Spanish", "Russian"]
     design = ["Figma", "Illustrator", "Photoshop"]
-    web = ["HTML", "CSS", "Bootstrap", "Webpack"]
+    web = ["HTML", "CSS", "SASS", "Bootstrap", "Webpack"]
     code = ["JavaScript", "TypeScript", "Python", "C++"]
-    libraries = ["TensorFlow", "Asyncio", "Django", "Flask"]
+    libraries = ["React.js", "Node.js", "Django", "Flask"]
     databases = ["PostgreSQL", "MongoDB"]
     tools = ["Docker", "Linux", "Git"]
 
