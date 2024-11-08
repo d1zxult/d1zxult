@@ -25,7 +25,7 @@ def current_skills():
         "Backend": ["Express.js", "Node.js", "Django", "Flask"],
         "Programming": ["JavaScript", "TypeScript", "Python", "Go"],
         "Libraries": ["React.js", "Next.js", "Redux", "Axios"],
-        "Databases": ["PostgreSQL", "MongoDB", "Redis"],
+        "Databases": ["PostgreSQL", "MongoDB", "CouchDB", "Redis"],
         "Tools": ["Webpack", "Docker", "Linux", "Git"]
     }
 
