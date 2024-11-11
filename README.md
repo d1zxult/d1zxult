@@ -11,7 +11,6 @@ def personal_info():
         "surname": "Васин",
         "country": "Russia",
         "languages": ["Russian",
-                      "Spanish",
                       "English"]
     }
 
