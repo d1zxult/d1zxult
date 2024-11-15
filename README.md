@@ -2,7 +2,7 @@
 
 # d1zxult's README.md
 
-def personal_info():
+def get_personal_info():
 
     personal_info_list = {
         "age": 20,
@@ -16,9 +16,9 @@ def personal_info():
 
     return personal_info_list
 
-def current_skills():
+def get_tech_stack():
 
-    current_skills_list = {
+    tech_stack_list = {
         "Design": ["Figma", "Framer", "Illustrator", "Photoshop"],
         "Frontend": ["HTML5", "CSS3", "SASS", "Tailwind", "Bootstrap"],
         "Backend": ["Express.js", "Node.js", "Django", "Flask"],
@@ -28,7 +28,7 @@ def current_skills():
         "Tools": ["Webpack", "Docker", "Linux", "Git"]
     }
 
-    return current_skills_list
+    return tech_stack_list
 
 if __name__ == "__main__":
 
