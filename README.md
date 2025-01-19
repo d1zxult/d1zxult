@@ -1,16 +1,32 @@
-## Hi there 👋
+```python
 
-<!--
-**d1zxult/d1zxult** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# d1zxult's README.md
 
-Here are some ideas to get you started:
+def get_personal_info():
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    personal_info_list = {
+        "age": 20,
+        "sex": "Male",
+        "name": "Артём",
+        "surname": "Васин",
+        "country": "Russia",
+        "languages": ["Russian",
+                      "English"]
+    }
+
+    return personal_info_list
+
+def get_tech_stack():
+
+    tech_stack_list = {
+        "Frontend": ["HTML5/CSS3", "Tailwind", "Bootstrap"],
+        "Backend": ["Node.js", "Nest.js", "Django", "Flask"],
+        "Programming": ["JavaScript", "TypeScript", "Python"],
+        "Databases": ["PostgreSQL", "MongoDB"],
+        "Libraries": ["React.js", "Next.js"],
+        "Tools": ["Docker", "Linux", "Git"]
+    }
+
+    return tech_stack_list
+
+```
