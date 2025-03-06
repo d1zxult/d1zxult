@@ -20,11 +20,11 @@ def get_tech_stack():
 
     tech_stack_list = {
         "Frontend": ["HTML5/CSS3", "SCSS/SASS", "Tailwind"],
-        "Backend": ["Node.js", "Nest.js", "Express.js"],
-        "Programming": ["JavaScript", "TypeScript"],
-        "Databases": ["PostgreSQL", "MongoDB"],
-        "Libraries": ["React.js", "Next.js"],
-        "Tools": ["Docker", "Linux", "Git"]
+        "Backend": ["Node.js", "Nest.js", "FastAPI"],
+        "Programming": ["JavaScript", "TypeScript", "Python"],
+        "Databases": ["PostgreSQL", "MongoDB", "Redis"],
+        "Libraries": ["Redux", "Axios", "React.js", "Next.js"],
+        "Tools": ["Webpack", "Docker", "Linux", "Git"]
     }
 
     return tech_stack_list
