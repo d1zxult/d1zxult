@@ -19,9 +19,9 @@ def get_personal_info():
 def get_tech_stack():
 
     tech_stack_list = {
-        "Frontend": ["HTML5/CSS3", "Tailwind", "Bootstrap"],
-        "Backend": ["Node.js", "FastAPI", "Django", "Flask"],
-        "Programming": ["JavaScript", "TypeScript", "Python"],
+        "Frontend": ["HTML5/CSS3", "SCSS/SASS", "Tailwind"],
+        "Backend": ["Node.js", "Nest.js", "Express.js"],
+        "Programming": ["JavaScript", "TypeScript"],
         "Databases": ["PostgreSQL", "MongoDB"],
         "Libraries": ["React.js", "Next.js"],
         "Tools": ["Docker", "Linux", "Git"]
