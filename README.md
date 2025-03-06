@@ -22,7 +22,7 @@ def get_tech_stack():
         "Frontend": ["HTML5/CSS3", "SCSS/SASS", "Tailwind"],
         "Backend": ["Node.js", "Nest.js", "Express.js"],
         "Programming": ["JavaScript", "TypeScript", "Python"],
-        "Libraries": ["Redux", "Axios", "React.js", "Next.js"],
+        "Libraries": ["Redux", "Axios", "ReactJS", "NextJS"],
         "Databases": ["PostgreSQL", "MongoDB"],
         "Tools": ["Webpack", "Docker", "Linux", "Git"]
     }
