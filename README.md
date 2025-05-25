@@ -19,7 +19,7 @@ def get_tech_stack():
 
     tech_stack_list = {
         "Frontend": ["HTML5/CSS3", "SCSS/SASS", "Bootstrap"],
-        "Backend": ["Django", "FastAPI", "Express.js", "Nest.js"],
+        "Backend": ["FastAPI", "Django", "Express.js", "Nest.js"],
         "Languages": ["JavaScript", "TypeScript", "Python"],
         "Libraries": ["Redux", "Axios", "React.js", "Next.js"],
         "Databases": ["PostgreSQL", "MongoDB"],
